@@ -12,7 +12,12 @@ h1 {
     text-align: center;
     font-weight: bold;
     color: #8303ba;
+    text-transform: uppercase;
     
+}
+
+strong {
+    text-transform: uppercase;
 }
 
 .ingrese{
@@ -22,6 +27,7 @@ h1 {
     font-weight: 500;
     color: #078da2;
     margin-bottom: 25px;
+    
 
 }
 
